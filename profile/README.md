@@ -1,6 +1,8 @@
 # 🌟 Willkommen bei ElderlyAR
 *Gemeinsam schaffen wir Erinnerungen, die verbinden.*
 
+Du findest uns auch auf [Codeberg([Codeberg](https://codeberg.org/user/cbrgp/CpxzumI)).
+
 ## 🎯 Unsere Mission
 
 Wir öffnen Fenster zu fernen Orten und vergangenen Zeiten für Menschen, die nicht mehr selbst reisen können. Mit Virtual Reality-Technologie ermöglichen wir älteren Menschen und Menschen mit eingeschränkter Mobilität, die Welt zu erkunden – und das dank EU-Förderung völlig kostenfrei.
