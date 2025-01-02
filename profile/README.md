@@ -1,7 +1,7 @@
 # 🌟 Willkommen bei ElderlyAR
 *Gemeinsam schaffen wir Erinnerungen, die verbinden.*
 
-Du findest uns auch auf [Codeberg([Codeberg](https://codeberg.org/user/cbrgp/CpxzumI)).
+Du findest uns auch auf [Codeberg((https://codeberg.org/elderlyar).
 
 ## 🎯 Unsere Mission
 
